@@ -1,0 +1,14 @@
+footer {
+  background-color: #111;  /* dark background */
+  color: #ccc;            /* light gray text */
+  text-align: center;
+  font-size: 14px;        /* smaller text */
+  padding: 10px 0;        /* reduce height */
+  margin-top: 0;          /* ensure no extra spacing */
+  height: auto;           /* footer only as tall as its content */
+}
+
+body, footer {
+  margin: 0;
+  padding: 0;
+}
